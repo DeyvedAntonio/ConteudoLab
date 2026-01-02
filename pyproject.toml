@@ -1,0 +1,23 @@
+[project]
+name = "conteudolab"
+version = "0.1.0"
+description = "ConteúdoLab é um CMS acoplado desenvolvido em Django pensado como projeto de portfólio para demonstrar habilidades práticas em desenvolvimento web. 
+O sistema oferece um painel administrativo completo e um front‑end integrado, permitindo criar, editar, revisar e publicar conteúdo com workflows colaborativos, controle de permissões e gerenciamento de ativos digitais. 
+O foco do projeto é mostrar domínio em modelagem de dados, segurança web, testes automatizados, deploy com Docker e boas práticas de arquitetura (cache, CDN, storage em nuvem)."
+authors = [
+    {name = "Deyved Antonio",email = "deyved.antonio@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "django (>=6.0,<7.0)",
+    "djangorestframework (>=3.16.1,<4.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "conteudolab", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
