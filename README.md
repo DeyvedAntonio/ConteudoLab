@@ -2,7 +2,7 @@
 
 ## ConteúdoLab — publique melhor, mais rápido e com controle.
 
-# 📌 Menu
+## Menu
 
 - [🎯 Objetivo](#-objetivo)
 - [📖 Descrição](#-descrição)
@@ -146,4 +146,5 @@ Deyved Antonio
 [LinkedIn](https://linkedin.com/in/deyvedantonio)
 
 [Instagram](https://www.instagram.com/anto.niodvd/)
+
 
