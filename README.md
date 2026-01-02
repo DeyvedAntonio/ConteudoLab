@@ -5,15 +5,16 @@
 # 📌 Menu
 
 - [🎯 Objetivo](#-objetivo)
-- [📖 Descrição](https://github.com/DeyvedAntonio/ConteudoLab/edit/main/README.md#-descri%C3%A7%C3%A3o)
-- [🛠️ Tecnologias Utilizadas](#-tecnologias)
-- [🏗️ Arquitetura do Projeto](#-arquitetura)
-- [📞 Contato](#-contato)
-- [📞 Contato](#-contato)
-- [📞 Contato](#-contato)
-- [📞 Contato](#-contato)
-- [📞 Contato](#-contato)
-- 
+- [📖 Descrição](#-descrição)
+- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [🏗️ Arquitetura do Projeto](#-arquitetura-do-projeto)
+- [⚙️ Funcionalidades](#-funcionalidades)
+- [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
+- [🔐 Variáveis de Ambiente](#-variáveis-de-ambiente)
+- [🧪 Testes](#-testes)
+- [📌 Status](#-status)
+- [👤 Autor](#-autor)
+
 ## 🎯 Objetivo
 - ConteúdoLab tem como objetivo posicionar‑se como uma solução prática e confiável de gestão de conteúdo para pequenas e médias empresas, agências e criadores, oferecendo uma experiência de publicação rápida, colaborativa e segura que gera resultados de negócio mensuráveis.
 
@@ -132,7 +133,7 @@ DATABASE_URL=postgres://...
 
 ---
 
-## 📌 Status do Projeto
+## 📌 Status
 
 🚧 Em desenvolvimento
 
@@ -145,3 +146,4 @@ Deyved Antonio
 [LinkedIn](https://linkedin.com/in/deyvedantonio)
 
 [Instagram](https://www.instagram.com/anto.niodvd/)
+
