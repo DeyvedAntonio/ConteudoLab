@@ -6,9 +6,9 @@
 
 - [🎯 Objetivo](#-objetivo)
 - [📖 Descrição](#-descrição)
-- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [🏗️ Arquitetura do Projeto](#-arquitetura-do-projeto)
-- [⚙️ Funcionalidades](#-funcionalidades)
+- [⚡ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [🏗️ Arquitetura do Projeto](#arquitetura-do-projeto)
+- [🚩 Funcionalidades](#-funcionalidades)
 - [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
 - [🔐 Variáveis de Ambiente](#-variáveis-de-ambiente)
 - [🧪 Testes](#-testes)
@@ -44,7 +44,7 @@ ConteúdoLab é um CMS acoplado desenvolvido em Django pensado como projeto de p
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ⚡ Tecnologias Utilizadas
 - Python 3.13
 - Django / Django REST Framework
 - PostgreSQL
@@ -55,7 +55,7 @@ ConteúdoLab é um CMS acoplado desenvolvido em Django pensado como projeto de p
 
 ---
 
-## 🏗️ Arquitetura do Projeto
+## Arquitetura do Projeto
 Como o projeto está organizado.
 
 ```
@@ -88,7 +88,7 @@ conteudolab/
 
 ---
 
-## ⚙️ Funcionalidades
+## 🚩 Funcionalidades
 
 - Cadastro, edição e exclusão de registros
 - Autenticação e controle de permissões
@@ -146,5 +146,6 @@ Deyved Antonio
 [LinkedIn](https://linkedin.com/in/deyvedantonio)
 
 [Instagram](https://www.instagram.com/anto.niodvd/)
+
 
 
